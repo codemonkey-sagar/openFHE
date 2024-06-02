@@ -1,0 +1,3 @@
+/home/codemonkey/Desktop/openfhe/hello_openfhe/build/CMakeFiles/hello_openfhe.dir
+/home/codemonkey/Desktop/openfhe/hello_openfhe/build/CMakeFiles/edit_cache.dir
+/home/codemonkey/Desktop/openfhe/hello_openfhe/build/CMakeFiles/rebuild_cache.dir
