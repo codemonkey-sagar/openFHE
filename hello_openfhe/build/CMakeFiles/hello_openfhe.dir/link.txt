@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -O3  -DOPENFHE_VERSION=1.1.4 -Wno-parentheses -DMATHBACKEND=4 -fopenmp CMakeFiles/hello_openfhe.dir/hello_openfhe.cpp.o -o hello_openfhe   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOPENFHEpke.so.1.1.4 /usr/local/lib/libOPENFHEbinfhe.so.1.1.4 -fopenmp /usr/local/lib/libOPENFHEcore.so.1.1.4 -fopenmp 
