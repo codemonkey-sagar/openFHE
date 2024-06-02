@@ -54,6 +54,7 @@ endif()
 
 ### ADD YOUR EXECUTABLE(s) HERE
 add_executable( hello_openfhe hello_openfhe.cpp )
+# add_executable( test test.cpp )
 ###
 ### EXAMPLE:
 ### add_executable( test demo-simple-example.cpp )
